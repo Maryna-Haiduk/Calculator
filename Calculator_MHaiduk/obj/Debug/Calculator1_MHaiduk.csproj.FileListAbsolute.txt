@@ -1,0 +1,8 @@
+D:\1-Programming\CSharpFundamentals\Projects_CSharp\Calculator_Maryna Haiduk\calculator\Calculator_MHaiduk\Calculator_MHaiduk\bin\Debug\Calculator_MHaiduk.exe.config
+D:\1-Programming\CSharpFundamentals\Projects_CSharp\Calculator_Maryna Haiduk\calculator\Calculator_MHaiduk\Calculator_MHaiduk\bin\Debug\Calculator_MHaiduk.exe
+D:\1-Programming\CSharpFundamentals\Projects_CSharp\Calculator_Maryna Haiduk\calculator\Calculator_MHaiduk\Calculator_MHaiduk\bin\Debug\Calculator_MHaiduk.pdb
+D:\1-Programming\CSharpFundamentals\Projects_CSharp\Calculator_Maryna Haiduk\calculator\Calculator_MHaiduk\Calculator_MHaiduk\obj\Debug\Calculator1_MHaiduk.csproj.AssemblyReference.cache
+D:\1-Programming\CSharpFundamentals\Projects_CSharp\Calculator_Maryna Haiduk\calculator\Calculator_MHaiduk\Calculator_MHaiduk\obj\Debug\Calculator1_MHaiduk.csproj.SuggestedBindingRedirects.cache
+D:\1-Programming\CSharpFundamentals\Projects_CSharp\Calculator_Maryna Haiduk\calculator\Calculator_MHaiduk\Calculator_MHaiduk\obj\Debug\Calculator1_MHaiduk.csproj.CoreCompileInputs.cache
+D:\1-Programming\CSharpFundamentals\Projects_CSharp\Calculator_Maryna Haiduk\calculator\Calculator_MHaiduk\Calculator_MHaiduk\obj\Debug\Calculator_MHaiduk.exe
+D:\1-Programming\CSharpFundamentals\Projects_CSharp\Calculator_Maryna Haiduk\calculator\Calculator_MHaiduk\Calculator_MHaiduk\obj\Debug\Calculator_MHaiduk.pdb
